@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "f5ab99b983a1520a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8d0ac68c628e57",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "194857daa56025aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df18fa2541f4efc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4e13e2679e7c21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d1e056173a97588",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8178cb8d26ac460e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c2e2f7edfcc74b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fbc398403f49318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd8d0ac68c628e57",
+  "lastOpenFiles": [
+    "Shared Recipes/index.md",
+    "Code Camp/Programming & Java.md",
+    "Code Camp/Setup & Accounts.md",
+    "Code Camp/Globbing.md",
+    "Code Camp/Images/flex_terms.png",
+    "Code Camp/Images/Pasted image 20220517095614.png",
+    "Pasted image 20220523114113.png",
+    "MDN.md",
+    "Code Camp/Programming.md",
+    "Code Camp/Flexbox.md"
+  ]
+}
